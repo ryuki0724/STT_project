@@ -1,0 +1,48 @@
+# Python 虛擬環境
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Python 編譯檔案
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 分發/打包
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE 相關
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 本地開發配置
+.env
+.env.local
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 測試覆蓋率報告
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# 其他
+*.bak
+*.tmp 
+audios/
+models/
