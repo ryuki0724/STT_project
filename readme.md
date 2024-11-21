@@ -83,7 +83,9 @@ STT_project/
 
 ## 授權
 
-[您的授權說明]
+本專案採用 MIT 授權條款。任何人都可以自由使用、修改和分發本軟體，無論是用於商業還是非商業用途。
+
+詳細授權條款請參見 [MIT License](https://opensource.org/licenses/MIT)。
 
 ## 貢獻
 
